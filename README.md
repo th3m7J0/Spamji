@@ -1,8 +1,8 @@
 ## Spamji
 
-Python tool to send multiple emails <br>
-to multiple people at the same time with a custom message <br>
-can be used for phishing <br>
+Python tool to send multiple emails 
+to multiple people at the same time with a custom message 
+can be used for phishing 
 
 
 ### Usage
